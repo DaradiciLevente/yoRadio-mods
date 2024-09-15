@@ -36,4 +36,22 @@ Tema folosita:
 
 <img src="https://i.imgur.com/jiDSIKC.png">
 
-Deocamdata nu este rezolvata problema cu afisarea caracterelor cu diacritice romanesti.
+Tema poate fi editata foarte usor cu <b>yoRadio Theme Editor</b> creat de András Daradici
+Care poate fi descarcat de aici:
+  - Versiunea Golden: https://andrasdaradici.itch.io/yoradio-theme-editor
+  - Versiunea obisnuita: https://andrasdaradici.itch.io/yoradio-theme-editor-legacy
+
+Afisarea pe display arata astfel:
+
+https://youtube.com/shorts/-GlSg7B-ND4
+
+https://youtube.com/shorts/sBHBh6a5N9w
+
+https://youtube.com/shorts/FgbZ6_w3i58
+
+Deocamdata nu este rezolvata problema cu afisarea caracterelor cu diacritice romanesti. Orice ajutor venit pe aceasta directie este binevenita.
+Problema diacriticelor a fost rezolvata prntru diferite limbi din Europa. Una din documentatiile cele mai bine realizate este cel publicat de Lucza Gyuri pentru limba maghiara si este disponibila aici: https://gist.github.com/LuczaGyuri/c60b1742a66cb7e27a02f9d803c346bf
+
+Sper ca in curand sa avem si pentru limba romana rezolvata problema caracterelor cu diacritice romanesti.
+
+Spor la bricolat! 
