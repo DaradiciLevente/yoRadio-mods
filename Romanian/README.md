@@ -1,4 +1,4 @@
-# ёRadio
+# yoRadio Romanian version
 <img src="images/yologo.png" width="190" height="142">
 
 ##### Web-radio based on [ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) or/and [ESP32-vs1053_ext](https://github.com/schreibfaul1/ESP32-vs1053_ext) library
