@@ -2,7 +2,9 @@
 <img src="https://github.com/echosmart792/yoRadio-mods/blob/main/Romanian/images/yoRadioROU.png" width="360" height="160">
 
 yoRadio Romanian bazat pe proiectul original yoRadio: https://github.com/e2002/yoradio
+
 Aceasta versiune este adaptata pentru displayuri ILI9488 de 3.5" si de 4"
+
 A fost tradusa interfata web
 
 <img src="https://i.imgur.com/Q66dFtT.png">
