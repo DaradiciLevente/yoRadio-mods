@@ -41,7 +41,11 @@ void DspCore::initDisplay() {
   plYStart = (height() / 2 - plItemHeight / 2) - plItemHeight * (plTtemsCount - 1) / 2 + playlistConf.widget.textsize*2;
 }
 
-void DspCore::drawLogo(uint16_t top) { drawRGBBitmap((width() - 99) / 2, top, bootlogo2, 99, 64); }
+//void DspCore::drawLogo(uint16_t top) { drawRGBBitmap((width() - 99) / 2, top, bootlogo2, 99, 64); }
+
+//void DspCore::drawLogo(uint16_t top) { drawRGBBitmap((width() - 360) / 2, top, bootlogo2, 360, 160); }
+
+void DspCore::drawLogo(uint16_t top) { drawRGBBitmap((width() - 360) / 2, (height() - 160) / 4, bootlogo2, 360, 160); }
 
 void DspCore::printPLitem(uint8_t pos, const char* item, ScrollWidget& current){
   setTextSize(playlistConf.widget.textsize);
