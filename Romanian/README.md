@@ -34,6 +34,6 @@ Setari retea WIFI si setari pentru afisari meteo
 
 Tema folosita:
 
-https://i.imgur.<img src="m/jiDSIKC.png">
+<img src="https://i.imgur.com/jiDSIKC.png">
 
 Deocamdata nu este rezolvata problema cu afisarea caracterelor cu diacritice romanesti.
