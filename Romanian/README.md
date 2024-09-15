@@ -7,7 +7,13 @@ A fost tradusa interfata web
 
 <img src="https://i.imgur.com/Q66dFtT.png">
 
+Editorul listei de redare
+
 <img src="https://i.imgur.com/w4CGZFG.png">
+
+Setarile egalizatorului de sunet
+
+<img src="https://i.imgur.com/KrWN9q9.png">
 
 Aceasta versiune este adaptata pentru displayuri ILI9488 de 3.5" si de 4"
 
